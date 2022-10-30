@@ -297,3 +297,39 @@ body {
     opacity: 1;
     transform: scale(1,1);
   }
+
+  .section_list4 { 
+    margin-top: 60px;
+    max-width: 1200px;
+    background-color: #222a36;
+
+  }
+
+  .columns img {
+    width: 100px;
+  }
+
+  .columns div {
+    margin-top: 40px ;
+    /* display: inline-block; */
+    /* display: inline-block; */
+    /* display: block; */
+    display: inline-block;
+    background-color: #676cdb;
+    width: 250px;
+    height: 250px;
+    margin: 40px;
+    /* margin: 0 auto; */
+    /* padding: 0 auto; */
+    /* margin: 0 auto; */
+    /* justify-content: center; */
+    /* align-items: center; */
+  }
+
+  .img_columns1 {
+    /* display: flex; */
+    /* display: inline-block; */
+    
+  }
+
+  
